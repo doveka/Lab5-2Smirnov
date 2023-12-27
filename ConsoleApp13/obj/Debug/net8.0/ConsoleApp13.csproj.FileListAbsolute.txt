@@ -1,0 +1,14 @@
+C:\Users\snm39\RiderProjects\ConsoleApp13\ConsoleApp13\bin\Debug\net8.0\ConsoleApp13.exe
+C:\Users\snm39\RiderProjects\ConsoleApp13\ConsoleApp13\bin\Debug\net8.0\ConsoleApp13.deps.json
+C:\Users\snm39\RiderProjects\ConsoleApp13\ConsoleApp13\bin\Debug\net8.0\ConsoleApp13.runtimeconfig.json
+C:\Users\snm39\RiderProjects\ConsoleApp13\ConsoleApp13\bin\Debug\net8.0\ConsoleApp13.dll
+C:\Users\snm39\RiderProjects\ConsoleApp13\ConsoleApp13\bin\Debug\net8.0\ConsoleApp13.pdb
+C:\Users\snm39\RiderProjects\ConsoleApp13\ConsoleApp13\obj\Debug\net8.0\ConsoleApp13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\snm39\RiderProjects\ConsoleApp13\ConsoleApp13\obj\Debug\net8.0\ConsoleApp13.AssemblyInfoInputs.cache
+C:\Users\snm39\RiderProjects\ConsoleApp13\ConsoleApp13\obj\Debug\net8.0\ConsoleApp13.AssemblyInfo.cs
+C:\Users\snm39\RiderProjects\ConsoleApp13\ConsoleApp13\obj\Debug\net8.0\ConsoleApp13.csproj.CoreCompileInputs.cache
+C:\Users\snm39\RiderProjects\ConsoleApp13\ConsoleApp13\obj\Debug\net8.0\ConsoleApp13.dll
+C:\Users\snm39\RiderProjects\ConsoleApp13\ConsoleApp13\obj\Debug\net8.0\refint\ConsoleApp13.dll
+C:\Users\snm39\RiderProjects\ConsoleApp13\ConsoleApp13\obj\Debug\net8.0\ConsoleApp13.pdb
+C:\Users\snm39\RiderProjects\ConsoleApp13\ConsoleApp13\obj\Debug\net8.0\ConsoleApp13.genruntimeconfig.cache
+C:\Users\snm39\RiderProjects\ConsoleApp13\ConsoleApp13\obj\Debug\net8.0\ref\ConsoleApp13.dll
